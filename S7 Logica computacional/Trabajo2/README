@@ -1,0 +1,21 @@
+Los datos de prueba estan dentro de los archivos con el código, en la funcion MAIN
+Para el metodo de interpolacion de lagrange se cambian los valores del array
+xi e yi para los puntos, n para el tamaño del array y x para el valor que se quiere
+evaluar en el polinomio. Es necesario tener en cuenta que el numero de valores en xi e yi
+tiene que ser el mismo, y a su vez, este tiene que ser igual a n.
+
+Para la matriz de opinion colectiva los datos por cambiar son los de D, que representan 
+la permutacion, n representa la cardinalidad de esta, p la cantidad de particiones y partitions
+el largo de estas.
+
+Para ejecutar los programas basta con compilar con gcc y correr por consola. Dentro de la carpeta
+que contienen estos archivos correr mediante consola:
+
+PARA METODO DE INTERPOLACION DE LAGRANGE
+>> gcc LagrangeInterpolation.c
+>> ./a.out
+
+
+PARA MATRIZ DE OPINION colectiva
+>> gcc MatrizOpinionColectiva.c
+>> ./a.out

@@ -1,0 +1,10 @@
+Compilacion: flex Trabajo1.lex
+             gcc -o Trabajo1.exe lex.yy.c -ll
+             ./Trabajo1.exe -opcion < archivoDePrueba
+
+-opcion puede ser:
+    '-V' para modo verboso (mostrar tabla de verdad)
+    '-S' para modo silencioso (solo mostrara el resultado)
+
+Para el ejemplo Propuesto, la ejecucion del .exe es de la forma
+./Trabajo1.exe < ejemplo.txt

@@ -1,0 +1,1 @@
+(((v_{1} \rightarrow v_{2}) \wedge (v_{1} \wedge \neg v_{3})) \wedge (v_{3} \rightarrow v_{1})) \wedge ( \neg v_{1} \rightarrow v_{2})
