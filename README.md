@@ -1,3 +1,2 @@
 # TrabajosU
-Compilado de trabajos de distintos ramos de Lic. en ciencia de la Computación.
-Cada carpeta corresponde a un ramo, dentro de estas están los códigos de los trabajos realizados. 
+A selection of assignments i've done during my years studying computer science at Universyty of Santiago. (USACH)
